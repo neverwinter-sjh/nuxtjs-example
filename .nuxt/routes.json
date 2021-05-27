@@ -1,0 +1,16 @@
+[
+  {
+    "name": "mountains-slug",
+    "path": "/mountains/:slug?",
+    "component": "C:\\\\Workspace\\\\nuxtjs\\\\pages\\\\mountains\\\\_slug.vue",
+    "chunkName": "pages/mountains/_slug",
+    "_name": "_6022888c"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Workspace\\\\nuxtjs\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_62ea763a"
+  }
+]
